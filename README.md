@@ -3,7 +3,7 @@
 #### 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 #### 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 Export HTTP, setelah itu mencari nama image yang akan dicari pada text filter. Lalu save object gambar
-(21.png)
+![img](21.png)
 #### 3. Cari username dan password ketika login di "ppid.dpr.go.id"!
 #### 4. Temukan paket dari web-web yang menggunakan basic authentication method!
 Display Filter dengan syntax
