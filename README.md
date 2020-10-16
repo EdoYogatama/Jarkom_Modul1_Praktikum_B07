@@ -16,7 +16,7 @@ http.authorization contains Basic
 #### 6. Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
 Ctrl + f, cari paket list dengan "Answer.zip" dan "zipkey.txt". Cari yang baris dengan kolom protocolnya "FTP-Data". setelah itu Klik kanan, follow -> TCP Stream. Ubah dari ASCII ke Raw. Save as dengan nama dan ekstensi yang sesuai dengan file yang akan disave
 ![img](61.png)
-![img](62.png)![img](63.png)![img](64.png)![img](65.png)![img](67.png)
+![img](62.png)![img](63.png)![img](64.png)![img](65.png)![img](66.png)
 #### 7. Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut. Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 #### 8. Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 Display Filter dengan syntax
