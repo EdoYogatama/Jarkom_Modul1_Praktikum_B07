@@ -9,8 +9,7 @@
 #### 7. Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut. Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 #### 8. Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 #### 9. Cari username dan password ketika login FTP pada localhost!
-#### 10. Cari file .pdf di wireshark lalu download dan buka file tersebut!
-clue: "25 50 44 46"
+#### 10. Cari file .pdf di wireshark lalu download dan buka file tersebut! clue: "25 50 44 46"
 #### 11. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
 #### 12. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
 #### 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
